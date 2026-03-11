@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gita_001",
+    "text_hindi": "कर्म किए जा, फल की चिंता मत कर।",
+    "text_english": "Do your duty and leave the rest to God.",
+    "author_hindi": "भगवद गीता",
+    "author_english": "Bhagavad Gita",
+    "source": "अध्याय 3, श्लोक 19",
+    "category": "GITA",
+    "gradient_colors": ["#FF6B2C", "#FF8F00"]
+  },
+  {
+    "id": "gita_002",
+    "text_hindi": "जो हुआ वह अच्छा हुआ, जो हो रहा है वह अच्छा है, जो होगा वह भी अच्छा होगा।",
+    "text_english": "Whatever happened, happened for the good. Whatever is happening is good. Whatever will happen will also be good.",
+    "author_hindi": "भगवद गीता",
+    "author_english": "Bhagavad Gita",
+    "source": "अध्याय 2",
+    "category": "GITA",
+    "gradient_colors": ["#4A148C", "#6A1B9A"]
+  },
+  {
+    "id": "kabir_001",
+    "text_hindi": "मन के हारे हार है, मन के जीते जीत।",
+    "text_english": "Defeat lies in the mind that surrenders; victory in the mind that perseveres.",
+    "author_hindi": "कबीर दास",
+    "author_english": "Kabir Das",
+    "source": "कबीर दोहावली",
+    "category": "SAINT",
+    "gradient_colors": ["#1B5E20", "#2E7D32"]
+  },
+  {
+    "id": "vivekananda_001",
+    "text_hindi": "उठो, जागो और तब तक नहीं रुको जब तक लक्ष्य प्राप्त न हो जाए।",
+    "text_english": "Arise, awake and do not stop until the goal is achieved.",
+    "author_hindi": "स्वामी विवेकानंद",
+    "author_english": "Swami Vivekananda",
+    "source": "प्रेरणादायक वचन",
+    "category": "MOTIVATIONAL",
+    "gradient_colors": ["#B71C1C", "#C62828"]
+  },
+  {
+    "id": "gita_003",
+    "text_hindi": "आत्मा न जन्म लेती है, न मरती है।",
+    "text_english": "The soul is neither born nor does it die.",
+    "author_hindi": "भगवद गीता",
+    "author_english": "Bhagavad Gita",
+    "source": "अध्याय 2, श्लोक 20",
+    "category": "GITA",
+    "gradient_colors": ["#01579B", "#0277BD"]
+  },
+  {
+    "id": "chanakya_001",
+    "text_hindi": "धैर्य रखने वाले को ही सफलता मिलती है।",
+    "text_english": "Success comes only to those who have patience.",
+    "author_hindi": "चाणक्य",
+    "author_english": "Chanakya",
+    "source": "चाणक्य नीति",
+    "category": "MOTIVATIONAL",
+    "gradient_colors": ["#1A237E", "#283593"]
+  },
+  {
+    "id": "vedic_001",
+    "text_hindi": "वसुधैव कुटुम्बकम् - सारी दुनिया एक परिवार है।",
+    "text_english": "The world is one family.",
+    "author_hindi": "महोपनिषद",
+    "author_english": "Mahopanishad",
+    "source": "वेदिक साहित्य",
+    "category": "VEDIC",
+    "gradient_colors": ["#E65100", "#FF6D00"]
+  },
+  {
+    "id": "ramakrishna_001",
+    "text_hindi": "सेवा ही परमार्थ है। जब तक तुम दूसरों की सेवा में लगे हो, ईश्वर तुम्हारे साथ है।",
+    "text_english": "Service to others is the highest purpose.",
+    "author_hindi": "स्वामी रामकृष्ण",
+    "author_english": "Swami Ramakrishna",
+    "source": "वचनामृत",
+    "category": "SPIRITUAL",
+    "gradient_colors": ["#006064", "00838F"]
+  },
+  {
+    "id": "gita_004",
+    "text_hindi": "जिसका मन संयमित है, उसके लिए यह संसार स्वर्ग है।",
+    "text_english": "For one with a controlled mind, this world itself is heaven.",
+    "author_hindi": "भगवद गीता",
+    "author_english": "Bhagavad Gita",
+    "source": "अध्याय 6",
+    "category": "GITA",
+    "gradient_colors": ["#FF6B2C", "#4A148C"]
+  },
+  {
+    "id": "tulsi_001",
+    "text_hindi": "रामचरित मानस में कहा है: सकल पदारथ हैं जग माहीं, करमहीन नर पावत नाहीं।",
+    "text_english": "All treasures exist in this world, but only those with good karma can attain them.",
+    "author_hindi": "तुलसीदास",
+    "author_english": "Tulsidas",
+    "source": "रामचरितमानस",
+    "category": "SAINT",
+    "gradient_colors": ["#880E4F", "#AD1457"]
+  }
+]
