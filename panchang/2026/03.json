@@ -3,7 +3,347 @@
   "year": 2026,
   "days": [
     {
-      "date": "2026-03-11",
+      "date": "2026-03-01",
+      "tithi": {
+        "name": "Dvitiya",
+        "name_hindi": "द्वितीया",
+        "number": 2,
+        "paksha": "SHUKLA",
+        "end_time": "14:30"
+      },
+      "nakshatra": {
+        "name": "Uttara Bhadrapada",
+        "name_hindi": "उत्तर भाद्रपद",
+        "number": 26,
+        "deity": "Ahirbudhnya",
+        "end_time": "18:45"
+      },
+      "yoga": "शोभन",
+      "karana": "बव",
+      "sunrise": "07:12",
+      "sunset": "17:58",
+      "moonrise": "08:45",
+      "moonset": "20:30",
+      "rahu_kaal": {
+        "start": "09:00",
+        "end": "10:30",
+        "label": "राहु काल",
+        "is_auspicious": false
+      },
+      "yamaghantam": {
+        "start": "12:00",
+        "end": "13:30",
+        "label": "यमघण्टम",
+        "is_auspicious": false
+      },
+      "gulik_kaal": {
+        "start": "15:00",
+        "end": "16:30",
+        "label": "गुलिक काल",
+        "is_auspicious": false
+      },
+      "abhijit_muhurat": {
+        "start": "11:53",
+        "end": "12:38",
+        "label": "अभिजित मुहूर्त",
+        "is_auspicious": true
+      },
+      "shubh_muhurat": [
+        {
+          "start": "07:12",
+          "end": "09:00",
+          "label": "प्रातः मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "11:53",
+          "end": "12:38",
+          "label": "अभिजित मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "16:30",
+          "end": "17:58",
+          "label": "सायंकाल",
+          "is_auspicious": true
+        }
+      ],
+      "eclipse": null
+    },
+    {
+      "date": "2026-03-02",
+      "tithi": {
+        "name": "Dvitiya",
+        "name_hindi": "द्वितीया",
+        "number": 2,
+        "paksha": "SHUKLA",
+        "end_time": "14:30"
+      },
+      "nakshatra": {
+        "name": "Uttara Bhadrapada",
+        "name_hindi": "उत्तर भाद्रपद",
+        "number": 26,
+        "deity": "Ahirbudhnya",
+        "end_time": "18:45"
+      },
+      "yoga": "शोभन",
+      "karana": "बव",
+      "sunrise": "07:12",
+      "sunset": "17:58",
+      "moonrise": "08:45",
+      "moonset": "20:30",
+      "rahu_kaal": {
+        "start": "09:00",
+        "end": "10:30",
+        "label": "राहु काल",
+        "is_auspicious": false
+      },
+      "yamaghantam": {
+        "start": "12:00",
+        "end": "13:30",
+        "label": "यमघण्टम",
+        "is_auspicious": false
+      },
+      "gulik_kaal": {
+        "start": "15:00",
+        "end": "16:30",
+        "label": "गुलिक काल",
+        "is_auspicious": false
+      },
+      "abhijit_muhurat": {
+        "start": "11:53",
+        "end": "12:38",
+        "label": "अभिजित मुहूर्त",
+        "is_auspicious": true
+      },
+      "shubh_muhurat": [
+        {
+          "start": "07:12",
+          "end": "09:00",
+          "label": "प्रातः मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "11:53",
+          "end": "12:38",
+          "label": "अभिजित मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "16:30",
+          "end": "17:58",
+          "label": "सायंकाल",
+          "is_auspicious": true
+        }
+      ],
+      "eclipse": null
+    },
+    {
+      "date": "2026-03-03",
+      "tithi": {
+        "name": "Dvitiya",
+        "name_hindi": "द्वितीया",
+        "number": 2,
+        "paksha": "SHUKLA",
+        "end_time": "14:30"
+      },
+      "nakshatra": {
+        "name": "Uttara Bhadrapada",
+        "name_hindi": "उत्तर भाद्रपद",
+        "number": 26,
+        "deity": "Ahirbudhnya",
+        "end_time": "18:45"
+      },
+      "yoga": "शोभन",
+      "karana": "बव",
+      "sunrise": "07:12",
+      "sunset": "17:58",
+      "moonrise": "08:45",
+      "moonset": "20:30",
+      "rahu_kaal": {
+        "start": "09:00",
+        "end": "10:30",
+        "label": "राहु काल",
+        "is_auspicious": false
+      },
+      "yamaghantam": {
+        "start": "12:00",
+        "end": "13:30",
+        "label": "यमघण्टम",
+        "is_auspicious": false
+      },
+      "gulik_kaal": {
+        "start": "15:00",
+        "end": "16:30",
+        "label": "गुलिक काल",
+        "is_auspicious": false
+      },
+      "abhijit_muhurat": {
+        "start": "11:53",
+        "end": "12:38",
+        "label": "अभिजित मुहूर्त",
+        "is_auspicious": true
+      },
+      "shubh_muhurat": [
+        {
+          "start": "07:12",
+          "end": "09:00",
+          "label": "प्रातः मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "11:53",
+          "end": "12:38",
+          "label": "अभिजित मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "16:30",
+          "end": "17:58",
+          "label": "सायंकाल",
+          "is_auspicious": true
+        }
+      ],
+      "eclipse": null
+    },
+    {
+      "date": "2026-03-12",
+      "tithi": {
+        "name": "Dvitiya",
+        "name_hindi": "द्वितीया",
+        "number": 2,
+        "paksha": "SHUKLA",
+        "end_time": "14:30"
+      },
+      "nakshatra": {
+        "name": "Uttara Bhadrapada",
+        "name_hindi": "उत्तर भाद्रपद",
+        "number": 26,
+        "deity": "Ahirbudhnya",
+        "end_time": "18:45"
+      },
+      "yoga": "शोभन",
+      "karana": "बव",
+      "sunrise": "07:12",
+      "sunset": "17:58",
+      "moonrise": "08:45",
+      "moonset": "20:30",
+      "rahu_kaal": {
+        "start": "09:00",
+        "end": "10:30",
+        "label": "राहु काल",
+        "is_auspicious": false
+      },
+      "yamaghantam": {
+        "start": "12:00",
+        "end": "13:30",
+        "label": "यमघण्टम",
+        "is_auspicious": false
+      },
+      "gulik_kaal": {
+        "start": "15:00",
+        "end": "16:30",
+        "label": "गुलिक काल",
+        "is_auspicious": false
+      },
+      "abhijit_muhurat": {
+        "start": "11:53",
+        "end": "12:38",
+        "label": "अभिजित मुहूर्त",
+        "is_auspicious": true
+      },
+      "shubh_muhurat": [
+        {
+          "start": "07:12",
+          "end": "09:00",
+          "label": "प्रातः मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "11:53",
+          "end": "12:38",
+          "label": "अभिजित मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "16:30",
+          "end": "17:58",
+          "label": "सायंकाल",
+          "is_auspicious": true
+        }
+      ],
+      "eclipse": null
+    },
+    {
+      "date": "2026-03-14",
+      "tithi": {
+        "name": "Dvitiya",
+        "name_hindi": "द्वितीया",
+        "number": 2,
+        "paksha": "SHUKLA",
+        "end_time": "14:30"
+      },
+      "nakshatra": {
+        "name": "Uttara Bhadrapada",
+        "name_hindi": "उत्तर भाद्रपद",
+        "number": 26,
+        "deity": "Ahirbudhnya",
+        "end_time": "18:45"
+      },
+      "yoga": "शोभन",
+      "karana": "बव",
+      "sunrise": "07:12",
+      "sunset": "17:58",
+      "moonrise": "08:45",
+      "moonset": "20:30",
+      "rahu_kaal": {
+        "start": "09:00",
+        "end": "10:30",
+        "label": "राहु काल",
+        "is_auspicious": false
+      },
+      "yamaghantam": {
+        "start": "12:00",
+        "end": "13:30",
+        "label": "यमघण्टम",
+        "is_auspicious": false
+      },
+      "gulik_kaal": {
+        "start": "15:00",
+        "end": "16:30",
+        "label": "गुलिक काल",
+        "is_auspicious": false
+      },
+      "abhijit_muhurat": {
+        "start": "11:53",
+        "end": "12:38",
+        "label": "अभिजित मुहूर्त",
+        "is_auspicious": true
+      },
+      "shubh_muhurat": [
+        {
+          "start": "07:12",
+          "end": "09:00",
+          "label": "प्रातः मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "11:53",
+          "end": "12:38",
+          "label": "अभिजित मुहूर्त",
+          "is_auspicious": true
+        },
+        {
+          "start": "16:30",
+          "end": "17:58",
+          "label": "सायंकाल",
+          "is_auspicious": true
+        }
+      ],
+      "eclipse": null
+    },
+    {
+      "date": "2026-03-15",
       "tithi": {
         "name": "Dvitiya",
         "name_hindi": "द्वितीया",
